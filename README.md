@@ -1,5 +1,5 @@
 # CAR-LISTING-ANALYSIS
-A dashboard showing Cars,Years, makes and prices and thier distribution across different states in America. This dashboard was built from a dataset of various car makes and their prices and years. Below are my data cleaning checklist:
+I created a dashboard from a dataset of various car makes,their prices, years and thier distribution across different states in America . Below are my data cleaning checklist:
 
 
 •	Understanding the Data
@@ -9,7 +9,9 @@ A dashboard showing Cars,Years, makes and prices and thier distribution across d
 •	Checking for inconsistencies.
 •	Tabulizing the dataset
 
-After cleaning my dataset, i Loaded it into powerbi. created a new measure to help calculate the total number of cars using the unique VIN numbers in the dataset. Then i showed KPIs and visualization. with the use of different visualization tools,I created a dashboard to Address the following key questions:
+After cleaning my dataset, i Loaded it into power BI. created a new measure to help calculate the total number of cars using the unique VIN numbers in the dataset. Then i showed KPIs and visualization. with the use of different visualization tools.
+
+I created a dashboard to Address the following key questions:
 
 •	What is the relationship between the vehicle's age (year), mileage, location (city and state), manufacturer (make), and model, and its current market price? Can we build a robust predictive model to estimate the price of a vehicle based on these features?
 
