@@ -1,5 +1,5 @@
 # CAR-LISTING-ANALYSIS
-I created a dashboard from a dataset of various car makes,their prices, years and thier distribution across different states in America . Below are my data cleaning checklist:
+I created a dashboard from a dataset of various car makes,their prices, years and their distribution across different states in America . Below are my data cleaning checklist:
 
 
 •	Understanding the Data
